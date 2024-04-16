@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "ocev-projeto-mojo"
+version = "0.1.0"
+description = ""
+authors = ["Otávio Almeida <otavioalmeida650@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
